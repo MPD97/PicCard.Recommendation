@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F769464C-789D-4495-9E0C-85344D41BD0D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{7D07E6AC-32E2-410E-AFCF-54CDD9179DD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicCard.Recommendation.Api", "src\PicCard.Recommendation.Api\PicCard.Recommendation.Api.csproj", "{599FD39B-F142-45F9-B87C-E6C7406C5446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{599FD39B-F142-45F9-B87C-E6C7406C5446} = {F769464C-789D-4495-9E0C-85344D41BD0D}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{599FD39B-F142-45F9-B87C-E6C7406C5446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599FD39B-F142-45F9-B87C-E6C7406C5446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599FD39B-F142-45F9-B87C-E6C7406C5446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599FD39B-F142-45F9-B87C-E6C7406C5446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
